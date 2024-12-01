@@ -20,11 +20,17 @@ Bu proje, Go diliyle bir istemci (client) ve sunucu (server) arasında dosya tra
    ```bash
    go run server.go
 
+Sunucu 9000 portunda çalışmaya başlayacak.
+
 ### 2. İstemci Başlatma
 1-client.go dosyasındaki SERVER IP kısmını sunucunun IP adresiyle güncelleyin:
+
 SERVER_IP := "192.168.1.112"  // Sunucunun IP adresini buraya girin
+
 2-İstemciyi çalıştırın:
+
 go run client.go
+
 3-Dosya yolunu girin (örneğin cn.txt)
 
 ### 3. Dosya Transferi
