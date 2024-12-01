@@ -31,7 +31,7 @@ func main() {
 	}
 
 	// Server'a bağlanıyoruz (Server'ın IP adresi ve portu)
-	conn, err := net.Dial("tcp", "192.168.1.112:9000") // Server IP adresi
+	conn, err := net.Dial("tcp", "SERVER IP ADDRESS:9000") //important : Enter "SERVER IP ADDRESS"
 	if err != nil {
 		fmt.Println("Error connecting to server:", err)
 		return
