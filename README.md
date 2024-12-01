@@ -25,7 +25,7 @@ Sunucu 9000 portunda çalışmaya başlayacak.
 ### 2. İstemci Başlatma
 1-client.go dosyasındaki SERVER IP kısmını sunucunun IP adresiyle güncelleyin:
 
-SERVER_IP := "***.***.*.***"  // Sunucunun IP adresini buraya girin("*" bir sayı karakterine karşılık gelir)
+SERVER_IP := "SSS.SSS.S.SSS"  // Sunucunun IP adresini buraya girin("S" bir sayı karakterine karşılık gelir)
 
 2-İstemciyi çalıştırın:
 
