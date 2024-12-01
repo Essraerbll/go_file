@@ -35,6 +35,7 @@ go run client.go
 
 ### 3. Dosya Transferi
 İstemci, dosyayı sunucuya gönderecek ve sunucu dosyayı alacak.
+
 terminalde " cat output.txt " komutuyla cn.txt dosyasının içeriğinin buraya da kopyalanmış olduğunu göreceğiz. 
 
 
