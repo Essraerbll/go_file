@@ -1,0 +1,12 @@
+Bilgisayarlar, gunumuzde hayatimizin 
+ayrilmaz bir parcasi haline gelmistir.
+Her turlu is ve islem icin kullanilan 
+bu cihazlar,cok hizli hesaplamalar 
+yapabilme kapasitesine sahiptir. 
+Islemciler, bellek ve depolama birimleri, 
+bilgisayarin performansini 
+belirleyen en onemli bilesenlerdir. 
+Ayrica, internet araciligiyla dunyanin 
+dort bir yanindaki bilgilere erisim saglamak, 
+iletisim kurmak ve egitim almak da 
+mumkun olmaktadir.
